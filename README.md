@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Data Scientist 📊  <br>Currently learning Python, data analysis, and machine learning.  <br>Sharing projects and practice work as I learn.<br>🚀 Tools & Skills:<br>- Python<br>- NumPy, Pandas, Matplotlib<br>- SQL (learning)<br>- Machine Learning basics<br><br>📚 Always learning and improving.
+Aspiring Data Scientist 📊  <br>Currently learning Python, data analysis, and machine learning.  <br>Sharing projects and practice work as I learn.<br>🚀 Tools & Skills:<br>- Python<br>- NumPy, Pandas, Matplotlib<br>- SQL (learning)<br>- Machine Learning <br><br>📚 Always learning and improving.
 
 
 ## 🌐 Socials:
